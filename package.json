@@ -1,0 +1,23 @@
+{
+  "name": "frontend-project-46",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "[![Actions Status](https://github.com/vll8/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/vll8/frontend-project-46/actions)",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
